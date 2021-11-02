@@ -1,3 +1,3 @@
-module github.com/wagoodman/go-presenter
+module github.com/anchore/go-presenter
 
 go 1.16
